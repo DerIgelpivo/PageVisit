@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    background: url("../img/fon1.png");
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.card {
+    background: url("../img/fon2.png");
+    width: 400px;
+    margin: 30px auto;
+    padding: 15px;
+    box-shadow: 5px 5px 10px #7a7d7e;
+    border-radius: 10px;
+}
+
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0px auto;
+    border-radius: 50%;
+}
+
+.card-title {
+    text-align: center;    
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 25px;
+    color: #000000;
+}
+
+.card-text {
+    font-size: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center; 
+}
+
+.info {
+    background: url("../img/fon2.png");
+    background-size: auto;
+    width: 90%;
+    margin: 30px auto;
+    padding: 15px;
+    box-shadow: 5px 5px 10px #7a7d7e;
+    border-radius: 10px;
+}
+
+.info-title {
+    text-align: center;    
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 25px;
+    color: #000000;
+}
+
+.info-text {
+    font-size: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center; 
+}
+
+.info-text a {
+    color: #000;
+    text-decoration: none;
+}
+
+.info-text a:hover {
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+    color: dodgerblue;
+}
+
+.infoStud-text {
+    line-height: 1;
+    font-size: 20px;
+    width: auto;
+    margin: 30px 30px;
+    text-align: left; 
+    box-shadow: 5px 5px 10px #7a7d7e;
+    border-radius: 5px;
+    padding: 5px 20px;
+    display: inline-block;
+    border: 2px rgba(94, 99, 100, 0.65) solid;
+    vertical-align: middle;
+}
+
+.infoStud-text a {
+    color: #000;
+    text-decoration: none;
+}
+
+.infoStud-text a:hover {
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+    color: dodgerblue;
+}
+
+.infoWork-text {
+    line-height: 1;
+    font-size: 20px;
+    width: auto;
+    margin: 30px 30px;
+    text-align: left; 
+    box-shadow: 5px 5px 10px #7a7d7e;
+    border-radius: 5px;
+    padding: 5px 20px;
+    border: 2px rgba(94, 99, 100, 0.65) solid;
+}
+
+.infoWork-text a {
+    color: #000;
+    text-decoration: none;
+}
+
+.infoWork-text a:hover {
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+    color: dodgerblue;
+}
+
+.mark-list {
+    text-align: left;
+    line-height: 1.75;
+}
+
+
+
